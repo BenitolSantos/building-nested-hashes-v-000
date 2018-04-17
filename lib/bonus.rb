@@ -23,7 +23,7 @@ def bonus
   #code your solution here:
   #the syntax for nested hashes is the same as nested arrays
   #when it comes to changing certain things in them
-  
+  #since epic tragedy is already defined, we can call it! 
     epic_tragedy[:montague][:hero][:status] = "dead"
     epic_tragedy[:capulet][:heroine][:status] = "dead"
 
